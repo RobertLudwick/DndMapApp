@@ -7,9 +7,9 @@ import 'leaflet/dist/leaflet.css'
 class App extends Component{
   render() {
     return (
-    <MapContainer className='map' center={[0, 0]} zoom={0} scrollWheelZoom={false}>
+    <MapContainer className='map' center={[1, 1]} zoom={0} scrollWheelZoom={false}>
     <TileLayer
-      url= 'public/Maps/TileGroup0/{z}{x}{y}.png'
+      url= 'https://raw.githubusercontent.com/RobertLudwick/DndMapApp/main/public/Maps/TileGroup0/{x}-{y}-{z}.jpeg'
     />
   </MapContainer> 
     )
