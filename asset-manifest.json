@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/DndMapApp/static/css/main.71c03794.css",
+    "main.js": "/DndMapApp/static/js/main.2cbecfc6.js",
+    "index.html": "/DndMapApp/index.html",
+    "main.71c03794.css.map": "/DndMapApp/static/css/main.71c03794.css.map",
+    "main.2cbecfc6.js.map": "/DndMapApp/static/js/main.2cbecfc6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.71c03794.css",
+    "static/js/main.2cbecfc6.js"
+  ]
+}
