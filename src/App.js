@@ -9,7 +9,7 @@ class App extends Component{
     return (
     <MapContainer className='map' center={[1, 1]} zoom={0} scrollWheelZoom={false}>
     <TileLayer
-      url = 'https://raw.githubusercontent.com/RobertLudwick/DndMapApp/main/public/Maps/TileGroup0/{x}-{y}-{z}.png'
+      url = 'https://raw.githubusercontent.com/RobertLudwick/DndMapApp/main/public/Maps/TileGroup0/{z}-{x}-{y}.png'
     />
   </MapContainer> 
     )
