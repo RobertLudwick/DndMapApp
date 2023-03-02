@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/DndMapApp/static/css/main.ef97fa99.css",
-    "main.js": "/DndMapApp/static/js/main.d8b9f980.js",
+    "main.js": "/DndMapApp/static/js/main.d5b3ebd2.js",
     "index.html": "/DndMapApp/index.html",
     "main.ef97fa99.css.map": "/DndMapApp/static/css/main.ef97fa99.css.map",
-    "main.d8b9f980.js.map": "/DndMapApp/static/js/main.d8b9f980.js.map"
+    "main.d5b3ebd2.js.map": "/DndMapApp/static/js/main.d5b3ebd2.js.map"
   },
   "entrypoints": [
     "static/css/main.ef97fa99.css",
-    "static/js/main.d8b9f980.js"
+    "static/js/main.d5b3ebd2.js"
   ]
 }
