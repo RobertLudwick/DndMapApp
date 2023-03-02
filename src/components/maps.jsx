@@ -30,7 +30,7 @@ const myHTML = `
   <script>
 
     var map = new L.map('map', {
-      center: [40.91, -74.00],
+      center: [40.6078, -74.2603],
       zoom: 15,
       scrollWheelZoom: true
     });
@@ -41,7 +41,7 @@ const myHTML = `
 		maxZoom: 17
 	}).addTo(map);
 
-	L.marker([40.91, -74.00]).addTo(map)  
+	L.marker([40.6078, -74.2603]).addTo(map)   
 	  
 	mb.on('databaseloaded', function(ev) {
 		console.info('MBTiles DB loaded', ev);
