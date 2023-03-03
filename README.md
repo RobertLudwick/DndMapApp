@@ -5,8 +5,14 @@ Better name incoming
 #
 
 # TODO
+List of things to do
 
 ## create seprate branches
+Chris
+
+Bobby
+
+Dev
 
 ## Finish markers
 
@@ -16,3 +22,4 @@ Make marker groups
 
 ## Sort out bounds
 
+Fix the setbounds
