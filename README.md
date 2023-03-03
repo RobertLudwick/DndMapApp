@@ -2,17 +2,17 @@
 
 Better name incoming
 
-## 
+#
 
-## TODO
+# TODO
 
-### create seprate branches
+## create seprate branches
 
-### Finish markers
+## Finish markers
 
 Finish one marker 
 
 Make marker groups
 
-### Sort out bounds
+## Sort out bounds
 
