@@ -25,7 +25,7 @@ class Old_maps extends Component{
 
                     <Marker position={position}>
                         <Popup>
-                            A pretty CSS3 popup. <br /> Easily customizable.
+                            Test CSS3 popup. <br /> Easily customizable.
                         </Popup>
                     </Marker>
                 </MapContainer> 

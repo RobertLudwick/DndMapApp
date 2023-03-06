@@ -1,0 +1,14 @@
+{
+  "name": "Map Tiler Test-Tile5",
+  "version": "1.1.0",
+  "description": "",
+  "attribution": "<a href=\"https://www.maptiler.com/engine/\">Rendered with MapTiler Engine</a>, non-commercial use only",
+  "type": "baselayer",
+  "color": "#FFFFFF",
+  "format": "png",
+  "minzoom": "11",
+  "maxzoom": "17",
+  "scale": "1.000000",
+  "bounds": [-74.30350979, 40.57423192, -74.21563959, 40.64095794],
+  "profile": "mercator"
+}
